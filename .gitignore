@@ -60,3 +60,6 @@ jspm_packages/
 
 #the generated bundle
 bundle
+
+#VScode config folder
+.vscode/*
